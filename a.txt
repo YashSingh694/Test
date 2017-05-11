@@ -1,1 +1,3 @@
-aaa
+Hi Dude
+
+     I was in git, so I thought let play somthin in git repo So I did. I have made changes a.txt file which in git reop and also did same with TT.txt file which is on my local machine.
